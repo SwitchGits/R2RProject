@@ -1,6 +1,0 @@
-These files should go into the Content Folder for the Unreal Project.
-It was created with the FPS Template so used that as the base Project.
-
-Have the Unreal 5 Starter Content pack install
-
-Made on Unreal Engine 5.3
